@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Wave</title>
+	<script src="js/jquery-1.11.2.min.js"></script>
+	<script src="js/wave.js"></script>
+</head>
+<body>
+	<h1 align="center">Wave, LLC</h1>
+</body>
+</html>
